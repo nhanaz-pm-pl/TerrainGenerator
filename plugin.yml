@@ -1,0 +1,8 @@
+---
+name: TerrainGenerator
+version: 0.0.1
+main: NhanAZ\TerrainGenerator\Main
+api: 4.0.0
+website: https://github.com/NhanAZ
+author: NhanAZ
+...
