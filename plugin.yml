@@ -1,6 +1,6 @@
 ---
 name: TerrainGenerator
-version: 0.0.1
+version: 0.0.2
 main: NhanAZ\TerrainGenerator\Main
 api: 5.0.0
 website: https://github.com/NhanAZ
